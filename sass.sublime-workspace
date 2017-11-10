@@ -1,0 +1,975 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"out",
+				"outline-offset"
+			],
+			[
+				"tex",
+				"text-shadow"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ou",
+				"outline-offset"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marig",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fe",
+				"fetch_object"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"togle",
+				"toggleClass"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"arr",
+				"array_filter"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"magin",
+				"margin"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"marin",
+				"margin"
+			],
+			[
+				"array_",
+				"array_search"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"cle",
+				"cleaner"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"fetch",
+				"fetch_object"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"active",
+				"activeQuery"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"str",
+				"strrpos"
+			],
+			[
+				"uc",
+				"ucfirst"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"foc",
+				"focusout"
+			],
+			[
+				"mous",
+				"mouseleave"
+			],
+			[
+				"mou",
+				"mouseenter"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"rea",
+				"removeAttr"
+			],
+			[
+				"mb_strto",
+				"mb_strtoupper"
+			],
+			[
+				"array_filter",
+				"array_filter"
+			],
+			[
+				"mo",
+				"mouseenter"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"subr",
+				"substr"
+			],
+			[
+				"syste",
+				"system_id"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"diye",
+				"libxml_disable_entity_loader"
+			],
+			[
+				"tet",
+				"text-shadow"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ins",
+				"instructions"
+			],
+			[
+				"page",
+				"pagedata"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.php",
+			"settings":
+			{
+				"buffer_size": 100730,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: background-attachment:fixed"
+			],
+			[
+				"sass",
+				"Build With: SASS"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 426.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/monamade/css__/main.css",
+		"/D/xampp/htdocs/monamade/css__/main.php",
+		"/D/xampp/htdocs/monamade/content/basket.php",
+		"/D/xampp/htdocs/monamade/config/conf.php",
+		"/D/xampp/htdocs/monamade/structure/maps.php",
+		"/D/xampp/htdocs/monamade/config/defines.php",
+		"/D/xampp/htdocs/monamade/structure/body.php",
+		"/D/xampp/htdocs/monamade/structure/head.php",
+		"/D/xampp/htdocs/monamade/content/order.php",
+		"/D/xampp/htdocs/monamade/content/profil-item.php",
+		"/D/xampp/htdocs/monamade/functions/verify.php",
+		"/D/xampp/htdocs/monamade/functions/inputs.php",
+		"/D/xampp/htdocs/monamade/functions/user-profil.php",
+		"/D/xampp/htdocs/monamade/config/db.php",
+		"/D/xampp/htdocs/monamade/functions/filters.php",
+		"/D/xampp/htdocs/monamade/css/media.css",
+		"/D/xampp/htdocs/monamade/css/main.php",
+		"/D/xampp/htdocs/monamade/css/icons.php",
+		"/D/xampp/htdocs/monamade/functions/email.php",
+		"/D/xampp/htdocs/monamade/functions/basket.php",
+		"/D/xampp/htdocs/monamade/functions/global.php",
+		"/D/xampp/htdocs/monamade/functions/items.php",
+		"/D/xampp/htdocs/monamade/functions/item-profil.php",
+		"/D/xampp/htdocs/monamade/content/category.php",
+		"/D/xampp/htdocs/monamade/functions/search.php",
+		"/D/xampp/htdocs/monamade/functions/actions.php",
+		"/D/xampp/htdocs/monamade/functions/account.php",
+		"/D/xampp/htdocs/monamade-admin/font-awesome/css/font-awesome.css",
+		"/D/xampp/htdocs/monamade/js/main.js",
+		"/D/xampp/htdocs/monamade/js/basket.js",
+		"/D/xampp/htdocs/monamade/css/main.css",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/SASS.sublime-build",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/Sass.sublime-package",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/0_package_control_loader.sublime-package",
+		"/D/xampp/htdocs/monamade/css/main.css.map",
+		"/C/Users/Admin/Desktop/ODRODY.txt",
+		"/D/xampp/htdocs/monamade/content/about.php",
+		"/D/xampp/htdocs/monamade/temp/switch.php",
+		"/D/xampp/htdocs/monamade-admin/css/icons.php",
+		"/D/xampp/htdocs/monamade/css/additem.php",
+		"/D/xampp/htdocs/monamade-admin/functions/inputs.php",
+		"/D/xampp/htdocs/monamade-admin/functions/additem.php",
+		"/D/xampp/htdocs/monamade-admin/css/global.css",
+		"/D/xampp/htdocs/monamade-admin/css/login.css",
+		"/D/xampp/htdocs/kpplast/js/main.js",
+		"/D/xampp/htdocs/monamade/config/chr.php",
+		"/D/xampp/htdocs/monamade/content/index.php",
+		"/D/xampp/htdocs/monamade-admin/functions/filemanager.php",
+		"/D/xampp/htdocs/monamade-admin/js/main.js",
+		"/D/xampp/htdocs/monamade-admin/js/shopie.js",
+		"/D/xampp/htdocs/monamade-admin/functions/shop.php",
+		"/D/xampp/htdocs/monamade-admin/content/additem.php",
+		"/D/xampp/htdocs/monamade-admin/functions/global.php",
+		"/D/xampp/htdocs/monamade-admin/js/diyeditor.js",
+		"/D/xampp/htdocs/monamade-admin/config/db.php",
+		"/D/xampp/htdocs/kp-plast/functions/verify.php",
+		"/D/xampp/htdocs/kp-plast/functions/global.php",
+		"/D/xampp/htdocs/monamade-admin/config/defines.php",
+		"/D/xampp/htdocs/monamade/index.php",
+		"/D/xampp/htdocs/monamade-admin/config/conf.php",
+		"/D/xampp/htdocs/monamade/content/search.php",
+		"/D/xampp/htdocs/monamade/.htaccess",
+		"/D/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/D/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/htdocs/monamade/content/profil.php",
+		"/D/xampp/htdocs/monamade/content/seller-stock.php",
+		"/D/xampp/htdocs/monamade/content/newshop.php",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.667/style.css",
+		"/D/xampp/htdocs/rosnicka/functions/functions.php",
+		"/D/xampp/htdocs/rosnicka/structure/body.php",
+		"/D/xampp/htdocs/monamade-admin/temp/switch.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/htdocs/monamade/profil.php",
+		"/D/xampp/htdocs/monamade/functions/_shop.php",
+		"/D/xampp/htdocs/monamade/functions/sessions.php",
+		"/D/xampp/htdocs/monamade/functions/navody.php",
+		"/D/xampp/htdocs/monamade/functions/media.php",
+		"/D/xampp/htdocs/monamade/functions/events.php",
+		"/D/xampp/htdocs/monamade/functions/check.php",
+		"/D/xampp/htdocs/monamade/functions/tags.php",
+		"/D/xampp/htdocs/monamade/functions/filters – kopie.php",
+		"/D/xampp/htdocs/monamade/functions/additem.php",
+		"/D/xampp/htdocs/monamade/functions/diyeditor.php",
+		"/D/xampp/htdocs/monamade/functions/shop.php",
+		"/D/xampp/htdocs/monamade/functions/mm.php",
+		"/D/xampp/htdocs/monamade/functions/filemanager.php",
+		"/D/xampp/htdocs/monamade/functions/result_filters.php",
+		"/D/xampp/htdocs/monamade/js/jquery.js",
+		"/D/xampp/htdocs/monamade/js/mobile/jquery.mobile-1.4.5.js",
+		"/D/xampp/htdocs/monamade/content/tag.php",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/sendmail/sendmail.ini",
+		"/D/xampp/htdocs/monamade/kategorie.php",
+		"/D/xampp/htdocs/monamade/js/ui/jquery-ui.js",
+		"/D/xampp/htdocs/monamade-admin/.htaccess",
+		"/D/xampp/htdocs/monamade/font-awesome/css/font-awesome.css",
+		"/C/Users/Admin/Pictures/ICONS/MM/right.svg",
+		"/C/Users/Admin/Pictures/ICONS/MM/cart.svg",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.409/demo-files/demo.css",
+		"/D/xampp/htdocs/monamade/content/ordered.php",
+		"/D/xampp/htdocs/kp-plast/content/kontakt.php",
+		"/D/xampp/htdocs/kp-plast/css/main.css",
+		"/D/xampp/htdocs/kp-plast/structure/maps.php",
+		"/D/xampp/htdocs/kp-plast/structure/body.php",
+		"/D/xampp/htdocs/kp-plast/config/config.php",
+		"/D/xampp/htdocs/kp-plast/js/main.js",
+		"/D/xampp/htdocs/kp-plast/content/produkty.php",
+		"/D/xampp/htdocs/rosnicka/content/penzion.php",
+		"/D/World of Warcraft/WTF/Account/CAPARSONSK/SavedVariables/ElvUI.lua",
+		"/D/xampp/htdocs/rosnicka/content/cennik.php",
+		"/D/xampp/htdocs/rosnicka/functions/global.php",
+		"/D/xampp/htdocs/rosnicka/config/config.php",
+		"/D/xampp/htdocs/rosnicka/css/main.css",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.924/1499311356-p1e0n1z1i9o2nrosnicka_main.sql",
+		"/D/xampp/htdocs/rosnicka/functions/form.php",
+		"/D/xampp/htdocs/rosnicka/content/sukromne-akcie.php",
+		"/D/xampp/htdocs/rosnicka/functions/verify.php",
+		"/D/xampp/htdocs/rosnicka/config/db.php",
+		"/D/xampp/htdocs/rosnicka/temp/form_future.php",
+		"/D/xampp/htdocs/rosnicka/temp/form.php",
+		"/D/xampp/htdocs/rosnicka/index.php",
+		"/D/xampp/htdocs/rosnicka/content/o-nas.php",
+		"/D/xampp/htdocs/rosnicka/content/kontakt.php",
+		"/D/xampp/htdocs/rosnicka/content/restauracia.php",
+		"/D/xampp/htdocs/rosnicka/content/zlavy.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";",
+			" }",
+			" { ",
+			"::",
+			"   ",
+			"}",
+			";",
+			"{",
+			",",
+			"$V",
+			"category-content",
+			".baStatus label",
+			"backdoor",
+			"ipImg",
+			"ip-introImg",
+			"imgLink",
+			"ipImg",
+			"#p-order .editData",
+			"generate_inputs",
+			"inputs(",
+			"inputs",
+			".cart-buttons .om",
+			".basket-content",
+			"#p-order #basketItems",
+			".och-adress",
+			"ocha-head",
+			"322",
+			"fa-map-marker",
+			"fa-map-markerfa-map-marker",
+			"ocha-head",
+			".gmap-default",
+			"#p-order .lines",
+			"order",
+			"#p-basket #basketF",
+			".basketDetailed",
+			"#p-order .lines",
+			"#p-order .cart-continue",
+			"*/\n",
+			"#p-order .cart-continue",
+			".om",
+			"om",
+			"cart-buttons",
+			"ba-perone",
+			"baske",
+			"ba-perone",
+			"fa-pencil",
+			"pen",
+			"fa-pencil",
+			"generate_inputs",
+			"order",
+			"map",
+			"maps",
+			"mas",
+			"maps",
+			"reload",
+			"scrolleft_buttons",
+			"scrollWidth",
+			"scrolleft_buttons",
+			"scrollWidth",
+			"basket_header",
+			"SELECT *",
+			"verify_color",
+			"SELECT *",
+			"“",
+			"generate_addtobasket",
+			"verify_itemid",
+			"SELECT *",
+			"order_details",
+			"count_results",
+			"vop",
+			".aboutcontent",
+			"1025",
+			".aaco",
+			"about",
+			"filter ",
+			".fD button",
+			"aboutleft",
+			"scrollv",
+			".aboutnav a",
+			"about",
+			"aboutA",
+			"generate_ma",
+			"generate_",
+			"bfmleft",
+			"bfm-move",
+			"about-left",
+			".ap1",
+			"ABOUT",
+			"wwrap",
+			"word-r",
+			"page-name-title",
+			"word_ending",
+			"input:-webkit-autofill",
+			"check_all_before_publish",
+			"$this->diyID",
+			"check_all_before_publish",
+			"$this->IP",
+			"check_all_before_publish",
+			"$this->diyID",
+			"$this->inputArray",
+			"check_all_before_publish",
+			"check",
+			"basket_data",
+			".inpbox input",
+			"inpbox",
+			"generate_pictureUrl",
+			"ajax",
+			".navimenu2",
+			"diyem",
+			"diyEmp",
+			"diyEmpa",
+			".catright .w2",
+			".catright .diyContent",
+			".breadcrumb li+li:before",
+			".headers",
+			".headers .breadcrumb",
+			"resize",
+			"visible-links",
+			"responsive",
+			"resize",
+			"bottom-fixed-menu",
+			"navimenu2",
+			".navimenu2",
+			"768",
+			"apaydata",
+			".lines",
+			"#p-ip .lines",
+			"ip-main"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"",
+			"DEF_TITLE",
+			"B86C41",
+			"",
+			"$GD->g",
+			"$this->CHR->LANG",
+			"$data->",
+			"$this->GD->make_link",
+			"2cb34a",
+			"navimenu",
+			"padding-top:10px",
+			"",
+			"\"",
+			"$this->GD->hash",
+			"$this->GD->random_chars",
+			"$this->GD->filter",
+			"$this->GD->text",
+			"$this->GD",
+			"cart-summ",
+			"mm-history",
+			"jdi",
+			"$this->GD->link",
+			"$this->GD->text",
+			"$this->GD->random_text",
+			"$this->GD->count_results",
+			"$this->CHR->LANG",
+			"$this->GD",
+			"$this->GD->oddo",
+			"$this->GD->link",
+			"$this->GD->text",
+			"discount",
+			"$this->GD->adddate",
+			"adddate",
+			"font: 400",
+			"\"OS\"",
+			"600;",
+			"fa-chevron-right",
+			"fa-angle-double-right",
+			"fa-arrow-circle-o-right",
+			"arrow-circle-o-right",
+			"$this->GD->USERDATA",
+			"$this->GD->shopdata",
+			"$this->GD->price",
+			"$this->CHR->LANG",
+			"$this->GD->category_data",
+			"$this->GD->url",
+			"$this->GD->USERDATA_info",
+			"$this->GD->generate_pictureUrl",
+			"$this->GD->picture_dimension",
+			"$this->GD->LANG",
+			"$this->GD->mesiac",
+			"$this->GD->link",
+			"$this->GD->random_color",
+			"$this->GD->text",
+			"$this->GD->oddo",
+			"$this->GD->count_results",
+			"$this->CHR->LANG",
+			"$CHR->PD->page",
+			"$this->GD->text",
+			"$this->GD->link",
+			"$link->GD->link",
+			"$this->GD->is_logged",
+			"",
+			"podlahyts",
+			"=",
+			"$this->mysql->result2()",
+			"$mysql->result",
+			"$stmt->result2",
+			"",
+			"$stmt->fetch_assoc()",
+			"$stmt = $this->mysql->query",
+			"<?= ",
+			"<?=",
+			"",
+			"require_once",
+			"$stmt->fetch_assoc()",
+			"$stmt = $this->mysql->query",
+			"mdiy-header-topmenu ",
+			"makediy-header-topmenu ",
+			"$this",
+			"=",
+			"$stmt = $this->mysql->query(",
+			"public function",
+			"$stmt = $this->mysql->query(",
+			"$FUNC->",
+			"isset($menuA4",
+			"xampp\\htdocs\\",
+			"$FUNC->nav(",
+			"$FUNC->opening_hours(",
+			"$FUNC->nav_hash(",
+			"$this->nav(",
+			"$FUNC->breadcrumb(",
+			"$FUNC->breadcrumb",
+			"$this->slider_to_img",
+			"$FUNC->slider_to_array",
+			"$FUNC->slider",
+			"$FUNC->slider(",
+			"$FUNC->nav(",
+			"$FUNC->nav_lang",
+			"public function ",
+			"$stmt->fetch_assoc()",
+			"",
+			"$stmt = $this->mysql->query",
+			"$stmt->fetch_assoc()",
+			"",
+			"$this->ajax_page",
+			"$this",
+			"80",
+			"100",
+			"7777",
+			"4040",
+			"D:/xampp/htdocs/",
+			"D:\\xampp\\htdocs\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2276,
+								2276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 819.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS.sublime-build",
+	"project": "sass.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

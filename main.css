@@ -1,0 +1,40 @@
+/* Eric Meyer's Reset */
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {	margin: 0;	padding: 0;	border: 0;	font-size: 100%;	font: inherit;	vertical-align: baseline;} article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {	display: block;}body {	line-height: 1;}ol, ul {	list-style: none;}blockquote, q {	quotes: none;}blockquote:before, blockquote:after,q:before, q:after {	content: '';	content: none;}table {	border-collapse: collapse;	border-spacing: 0;}
+
+
+/*
+	MonaMade.sk CSS
+	1.11.2015
+*/
+
+::-webkit-scrollbar { width: 6px; }
+
+::-webkit-scrollbar-thumb:vertical, ::-webkit-scrollbar-thumb:horizontal { background: #757575; }
+
+::-webkit-scrollbar-thumb:vertical:hover, ::-webkit-scrollbar-thumb:horizontal:hover { background: #757575; }
+::-webkit-scrollbar-thumb:vertical:active, ::-webkit-scrollbar-thumb:horizontal:active { background: #858585; }
+
+::-webkit-scrollbar-button { background: #C5C5C5; display: none;}
+::-webkit-scrollbar-track-piece { background: #FAFAFA; }
+::-webkit-scrollbar-track-piece:vertical { background: #fff; border-left: solid 1px #e0e0e0; }
+
+::-webkit-scrollbar-corner { background: #B0B0B0; }
+
+
+@font-face {
+	font-family: 'Tri';
+	src: local('☺'), url('/fonts/TitilliumWeb-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Tri';
+	src: local('☺'), url('/fonts/TitilliumWeb-SemiBold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: bold;
+}
+
+body { background: #d2c3aa url(mmm.jpg); font: bold 20px/30px "Tri"; }
+.monamade { position: absolute; background: url(mm.png) center no-repeat; width: 500px; height: 500px; margin: auto; display: flex; top: 0; bottom: 0; left: 0; right: 0; }
+	.monamade-contact { position: absolute; bottom: 0; text-align: center; width: 100%; color: #fff; text-decoration: none; }

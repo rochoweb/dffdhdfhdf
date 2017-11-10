@@ -1,0 +1,2533 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"out",
+				"outline-width"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"key",
+				"keywords"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"q",
+				"quantity"
+			],
+			[
+				"tr",
+				"transparent"
+			],
+			[
+				"fet",
+				"fetch_assoc"
+			],
+			[
+				"color",
+				"color_text"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi-",
+				"margin-top"
+			],
+			[
+				"ou",
+				"outline-offset"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"border-top",
+				"border-top-color"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"marg",
+				"marginTop"
+			],
+			[
+				"mous",
+				"mousemove"
+			],
+			[
+				"mou",
+				"mousemove"
+			],
+			[
+				"mb_s",
+				"mb_strtolower"
+			],
+			[
+				"backgroun",
+				"background-position"
+			],
+			[
+				"strto",
+				"mb_strtolower"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marig",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"ove",
+				"overflow"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"_",
+				"_GET"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"ds",
+				"display"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"fe",
+				"fetch_object"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"border-bot",
+				"border-bottom-color"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"togle",
+				"toggleClass"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"appe",
+				"appendTo"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"arr",
+				"array_filter"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"remove",
+				"removeAttr"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"magin",
+				"margin"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"marin",
+				"margin"
+			],
+			[
+				"array_",
+				"array_search"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"cle",
+				"cleaner"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"fetch",
+				"fetch_object"
+			],
+			[
+				"word",
+				"word-wrap"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"f",
+				"font-style"
+			],
+			[
+				"active",
+				"activeQuery"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"str",
+				"strrpos"
+			],
+			[
+				"uc",
+				"ucfirst"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"foc",
+				"focusout"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"rea",
+				"removeAttr"
+			],
+			[
+				"mb_strto",
+				"mb_strtoupper"
+			],
+			[
+				"array_filter",
+				"array_filter"
+			],
+			[
+				"mo",
+				"mouseenter"
+			],
+			[
+				"fl",
+				"floor"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"subr",
+				"substr"
+			],
+			[
+				"syste",
+				"system_id"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"diye",
+				"libxml_disable_entity_loader"
+			],
+			[
+				"tet",
+				"text-shadow"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"ins",
+				"instructions"
+			],
+			[
+				"page",
+				"pagedata"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"var",
+				"var_dump"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "functions/global.php",
+			"settings":
+			{
+				"buffer_size": 91716,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/basket.php",
+			"settings":
+			{
+				"buffer_size": 57078,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "temp/switch.php",
+			"settings":
+			{
+				"buffer_size": 1801,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/email.php",
+			"settings":
+			{
+				"buffer_size": 28948,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/items.php",
+			"settings":
+			{
+				"buffer_size": 16518,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/search.php",
+			"settings":
+			{
+				"buffer_size": 19031,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/actions.php",
+			"settings":
+			{
+				"buffer_size": 8984,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/account.php",
+			"settings":
+			{
+				"buffer_size": 6567,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/item-profil.php",
+			"settings":
+			{
+				"buffer_size": 16202,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 92209,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/media.css",
+			"settings":
+			{
+				"buffer_size": 28462,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/global/js/plugin_timestamp.js",
+			"settings":
+			{
+				"buffer_size": 3011,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/global/js/plugin_moment.js",
+			"settings":
+			{
+				"buffer_size": 115414,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/global/css/icons.css",
+			"settings":
+			{
+				"buffer_size": 3920,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 44076,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/basket.js",
+			"settings":
+			{
+				"buffer_size": 4213,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/conf.php",
+			"settings":
+			{
+				"buffer_size": 10808,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/index.php",
+			"settings":
+			{
+				"buffer_size": 601,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config/defines.php",
+			"settings":
+			{
+				"buffer_size": 3989,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/profil-item.php",
+			"settings":
+			{
+				"buffer_size": 1856,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "structure/head.php",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "structure/body.php",
+			"settings":
+			{
+				"buffer_size": 10539,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/category.php",
+			"settings":
+			{
+				"buffer_size": 796,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/about.php",
+			"settings":
+			{
+				"buffer_size": 821,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/order.php",
+			"settings":
+			{
+				"buffer_size": 1988,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/search.php",
+			"settings":
+			{
+				"buffer_size": 1025,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/verify.php",
+			"settings":
+			{
+				"buffer_size": 20805,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/inputs.php",
+			"settings":
+			{
+				"buffer_size": 7524,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 352,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/user-profil.php",
+			"settings":
+			{
+				"buffer_size": 13283,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/filters.php",
+			"settings":
+			{
+				"buffer_size": 8679,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/signin.php",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/signup.php",
+			"settings":
+			{
+				"buffer_size": 542,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/404.php",
+			"settings":
+			{
+				"buffer_size": 153,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Vážený zákazník,\n\npráve Vám bol vytvorený užívateľský účet v klienstkom centre nákupnej galérie MALL.SK, ktorý môžete využiť napr. ku komfortnejšiemu nákupu alebo sledovaniu stavu Vašich objednávok.\n\nPre aktiváciu účtu je potrebné zvoliť heslo, ktoré chcete používať. Pre dokončenie registrácie a zadanie hesla použite nasledujúci odkaz prosím:\nDokončiť registráciu v klienskom centre nákupnej galérie MALL.SK\n\nĎakujeme a prajeme príjemný deň.\n\nS priateľským pozdravom\n\nZákaznícky servis MALL.SK\n\nTento e-mail je generovaný automaticky, prosím neodpovedajte naň.",
+			"settings":
+			{
+				"buffer_size": 562,
+				"line_ending": "Windows",
+				"name": "Vážený zákazník,"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 3261,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/xampp/htdocs/monamade-admin/functions/crons.php",
+			"settings":
+			{
+				"buffer_size": 3761,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions/tags.php",
+			"settings":
+			{
+				"buffer_size": 2484,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 38.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: background-attachment:fixed"
+			],
+			[
+				"sass",
+				"Build With: SASS"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 426.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/monamade/resend/confirmemail.php",
+		"/D/xampp/htdocs/monamade-admin/resend/confirmemail.php",
+		"/D/xampp/htdocs/global/.htaccess",
+		"/D/xampp/htdocs/monamade-admin/crons/season_imgs.php",
+		"/D/xampp/htdocs/monamade/content/basket.php",
+		"/D/xampp/htdocs/monamade/config/db.php",
+		"/D/xampp/htdocs/monamade-admin/crons/og_images.php",
+		"/D/xampp/htdocs/monamade-admin/structure/head.php",
+		"/D/xampp/htdocs/kp-plast/.htaccess",
+		"/D/xampp/htdocs/monamade/css/media.css",
+		"/D/xampp/htdocs/monamade/robots.txt",
+		"/D/xampp/htdocs/global/js/plugin_timestamp.js",
+		"/D/xampp/htdocs/global/js/plugin_moment.js",
+		"/D/xampp/htdocs/global/js/ui/jquery-ui.js",
+		"/D/xampp/htdocs/global/js/ui/jquery-ui.min.js",
+		"/D/xampp/htdocs/monamade/.htaccess",
+		"/D/xampp/htdocs/monamade-admin/index.php",
+		"/D/xampp/htdocs/monamade/content/index.php",
+		"/D/xampp/htdocs/kp-plast/functions/global.php",
+		"/D/xampp/htdocs/monamade/js/plugin_moment.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/D/xampp/htdocs/global/css/icons.css",
+		"/D/xampp/htdocs/monamade/css/icons.css",
+		"/D/xampp/htdocs/monamade-admin/css/icons.css",
+		"/D/xampp/htdocs/monamade-admin/config/defines.php",
+		"/D/xampp/htdocs/monamade/config/chr.php",
+		"/D/xampp/htdocs/monamade/functions/tags.php",
+		"/D/xampp/htdocs/monamade/index.php",
+		"/D/xampp/htdocs/monamade/content/tag.php",
+		"/D/xampp/htdocs/monamade/content/search.php",
+		"/D/xampp/htdocs/monamade/hladat.php",
+		"/D/xampp/htdocs/monamade-admin/functions/global.php",
+		"/D/xampp/htdocs/monamade/structure/maps.php",
+		"/D/xampp/htdocs/monamade/structure/head.php",
+		"/D/xampp/htdocs/monamade/content/category.php",
+		"/D/xampp/htdocs/monamade/functions/item-profil.php",
+		"/D/xampp/htdocs/monamade-admin/functions/shop.php",
+		"/D/xampp/htdocs/monamade/js/plugin_timestamp.js",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.966/Tiny-Fast-jQuery-Image-Hover-Zoom-Plugin-Light-Zoom/lightzoom.js",
+		"/D/xampp/htdocs/monamade/css/icons.php",
+		"/D/xampp/htdocs/monamade/css/main.php",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.236/Tiny-Fast-jQuery-Image-Hover-Zoom-Plugin-Light-Zoom/lightzoom.js",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.681/jQuery-CSS3-Based-Image-Magnifying-Effect-For-Touch-Devices-Touch-Zoom/css/styles.css",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.813/Tiny-Fast-jQuery-Image-Hover-Zoom-Plugin-Light-Zoom/lightzoom.js",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.826/jQuery-CSS3-Based-Image-Magnifying-Effect-For-Touch-Devices-Touch-Zoom/js/zoom.js",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.492/magiczoomplus-trial/magiczoomplus/magiczoomplus.js",
+		"/D/xampp/htdocs/monamade-admin/functions/filemanager.php",
+		"/D/xampp/htdocs/monamade/content/order.php",
+		"/D/xampp/htdocs/monamade/content/profil-item.php",
+		"/D/xampp/htdocs/monamade/js/shopie.js",
+		"/D/xampp/htdocs/monamade/structure/body.php",
+		"/D/xampp/htdocs/monamade/_sass/main.sass",
+		"/D/xampp/htdocs/monamade/_sass/main.scss",
+		"/D/xampp/htdocs/monamade-admin/font-awesome/css/font-awesome.css",
+		"/D/xampp/htdocs/monamade/js/main.js",
+		"/D/xampp/htdocs/monamade/js/basket.js",
+		"/D/xampp/htdocs/monamade/css/main.css",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/SASS.sublime-build",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/Sass.sublime-package",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/Package Control.sublime-package",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Installed Packages/0_package_control_loader.sublime-package",
+		"/D/xampp/htdocs/monamade/css/main.css.map",
+		"/C/Users/Admin/Desktop/ODRODY.txt",
+		"/D/xampp/htdocs/monamade/content/about.php",
+		"/D/xampp/htdocs/monamade/temp/switch.php",
+		"/D/xampp/htdocs/monamade-admin/css/icons.php",
+		"/D/xampp/htdocs/monamade/css/additem.php",
+		"/D/xampp/htdocs/monamade-admin/functions/inputs.php",
+		"/D/xampp/htdocs/monamade-admin/functions/additem.php",
+		"/D/xampp/htdocs/monamade-admin/css/global.css",
+		"/D/xampp/htdocs/monamade-admin/css/login.css",
+		"/D/xampp/htdocs/kpplast/js/main.js",
+		"/D/xampp/htdocs/monamade-admin/js/main.js",
+		"/D/xampp/htdocs/monamade-admin/js/shopie.js",
+		"/D/xampp/htdocs/monamade-admin/content/additem.php",
+		"/D/xampp/htdocs/monamade-admin/js/diyeditor.js",
+		"/D/xampp/htdocs/monamade-admin/config/db.php",
+		"/D/xampp/htdocs/kp-plast/functions/verify.php",
+		"/D/xampp/htdocs/monamade/functions/inputs.php",
+		"/D/xampp/htdocs/monamade/functions/global.php",
+		"/D/xampp/htdocs/monamade-admin/config/conf.php",
+		"/D/xampp/htdocs/monamade/functions/items.php",
+		"/D/xampp/apache/conf/extra/httpd-ssl.conf",
+		"/D/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/D/xampp/htdocs/monamade/content/profil.php",
+		"/D/xampp/htdocs/monamade/content/seller-stock.php",
+		"/D/xampp/htdocs/monamade/content/newshop.php",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.667/style.css",
+		"/D/xampp/htdocs/rosnicka/functions/functions.php",
+		"/D/xampp/htdocs/rosnicka/structure/body.php",
+		"/D/xampp/htdocs/monamade-admin/temp/switch.php",
+		"/D/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/D/xampp/htdocs/monamade/profil.php",
+		"/D/xampp/htdocs/monamade/functions/_shop.php",
+		"/D/xampp/htdocs/monamade/functions/sessions.php",
+		"/D/xampp/htdocs/monamade/functions/navody.php",
+		"/D/xampp/htdocs/monamade/functions/media.php",
+		"/D/xampp/htdocs/monamade/functions/events.php",
+		"/D/xampp/htdocs/monamade/functions/check.php",
+		"/D/xampp/htdocs/monamade/functions/user-profil.php",
+		"/D/xampp/htdocs/monamade/functions/filters – kopie.php",
+		"/D/xampp/htdocs/monamade/functions/additem.php",
+		"/D/xampp/htdocs/monamade/functions/diyeditor.php",
+		"/D/xampp/htdocs/monamade/functions/shop.php",
+		"/D/xampp/htdocs/monamade/functions/search.php",
+		"/D/xampp/htdocs/monamade/functions/mm.php",
+		"/D/xampp/htdocs/monamade/functions/filemanager.php",
+		"/D/xampp/htdocs/monamade/functions/result_filters.php",
+		"/D/xampp/htdocs/monamade/js/jquery.js",
+		"/D/xampp/htdocs/monamade/js/mobile/jquery.mobile-1.4.5.js",
+		"/D/xampp/htdocs/monamade/config/conf.php",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/sendmail/sendmail.ini",
+		"/D/xampp/htdocs/monamade/kategorie.php",
+		"/D/xampp/htdocs/monamade/js/ui/jquery-ui.js",
+		"/D/xampp/htdocs/monamade-admin/.htaccess",
+		"/D/xampp/htdocs/monamade/functions/actions.php",
+		"/D/xampp/htdocs/monamade/font-awesome/css/font-awesome.css",
+		"/C/Users/Admin/Pictures/ICONS/MM/right.svg",
+		"/C/Users/Admin/Pictures/ICONS/MM/cart.svg",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DRa0.409/demo-files/demo.css",
+		"/D/xampp/htdocs/monamade/content/ordered.php",
+		"/D/xampp/htdocs/kp-plast/content/kontakt.php",
+		"/D/xampp/htdocs/kp-plast/css/main.css",
+		"/D/xampp/htdocs/kp-plast/structure/maps.php",
+		"/D/xampp/htdocs/kp-plast/structure/body.php",
+		"/D/xampp/htdocs/kp-plast/config/config.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".pa",
+			".imgvertical",
+			".hs-body",
+			".hs-header .rib-text",
+			"generate_pictureUrl",
+			"send_mail_about_order",
+			"_url",
+			".ribbon",
+			"soli",
+			".hs a",
+			"gen_seasons",
+			".imgvertical",
+			"picture_dimension",
+			"generate_pictureUrl",
+			"diyA",
+			".catright .w2",
+			".tagContainer",
+			"ipImg ",
+			".ip-introImg",
+			"introImg .imgvertical",
+			"aoe",
+			"imgzcont",
+			"imgzoom",
+			"iwarn-content",
+			".iwarn-content",
+			".diy .imghorisontal, .diyAnch .imghorisontal",
+			".imgzcont",
+			"cron",
+			"og_image",
+			"diy",
+			"send_order",
+			"ipr-createDate",
+			"ipr-de",
+			"ITEM ",
+			"ITEM PRO",
+			".imgzcont",
+			".diyLink",
+			".diyDesc-content",
+			".diyDesc-price",
+			"diyA",
+			"#diyA .diyDesc-content .diyLink",
+			".imgvertical",
+			".imghorisontal",
+			".diy .imghorisontal",
+			".diy .imghorisontal, .diyAnch .imghorisontal",
+			"filter_order",
+			"filters",
+			"ipr-createDate",
+			"fa-calendar-plus-o",
+			"fa-clock-o",
+			".appAll",
+			".applied-filters",
+			".itemHistory .w2, .itemRelated .w2",
+			".topline-content",
+			"basketDetailed",
+			".sd-mob",
+			".basketDetailed",
+			".cat-top",
+			"basketDetailed",
+			".body-content",
+			"itemProfile",
+			".topline-content",
+			"lines",
+			"about",
+			".basketDetailed",
+			".breadcrumb, .abouthead .breadcrumb",
+			"h1",
+			".cat-top .breadcrumb",
+			"basketDetailed",
+			".headers h1",
+			".catright .breadcrumb",
+			".filter-content",
+			".applied-filters",
+			"catright",
+			"headers",
+			"header",
+			"head",
+			".breadcrumb, .abouthead .breadcrumb",
+			".headers .breadcrumb",
+			".headers",
+			".headers h1",
+			".headers",
+			".catleft-head",
+			".catleft-head.catleft-head",
+			".applied-filters",
+			"catleft-head",
+			"headers",
+			".fD button",
+			".filter-content",
+			".df a",
+			"fa-circle-o",
+			"<i class=\"fa fa-circle-o\" aria-hidden=\"true\"></i>",
+			".headers .breadcrumb",
+			"bread",
+			".headers .breadcrumb",
+			"utools-loading",
+			"main-loading",
+			"load3.gif",
+			"ExpiresActive",
+			"alive",
+			"load3.gif",
+			"mod_expires",
+			".diyStats { padding: 10",
+			"responsive",
+			"diyDesc-menu",
+			"diyDesc-footer",
+			"imgLink",
+			"level",
+			"4:",
+			"url",
+			"link(4)",
+			"$this->GD->link(4)",
+			"link(",
+			"link",
+			"gs-top",
+			"generate_inputs",
+			"index",
+			".breadcrumb",
+			".headers .breadcrumb span",
+			".diyDesc-price span",
+			"itemprop=\"offers\" itemscope itemtype=\"http://schema.org/Offer\"",
+			"DESC",
+			"gen_price",
+			"PRICE",
+			"generate_sendorder_items",
+			"default_subjects",
+			"HEADER_ADMIN",
+			"eol"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$this->m",
+			"956f47",
+			"m->q",
+			"$this->m",
+			"$_COOKIE[\"mm-online\"]",
+			"56a502",
+			"$this->GD->link",
+			"$this->GD->text",
+			"iRight",
+			"iDown",
+			"956f47",
+			"",
+			"font-weight: bold;",
+			"\"HO\"",
+			"\"ho\"",
+			"$(this)",
+			"copy",
+			"$this->GD->verify_detype",
+			"font-size:14px;color:#56a502;",
+			"m->q",
+			"->q",
+			"$this->m",
+			"$this->GD->verify_payment",
+			"$this->GD->verify_detype",
+			"$this->GD->verify_payment",
+			"$this->GD->verify_itemid",
+			"DEF_TITLE",
+			"B86C41",
+			"",
+			"$GD->g",
+			"$this->CHR->LANG",
+			"$data->",
+			"$this->GD->make_link",
+			"2cb34a",
+			"navimenu",
+			"padding-top:10px",
+			"",
+			"\"",
+			"$this->GD->hash",
+			"$this->GD->random_chars",
+			"$this->GD->filter",
+			"$this->GD->text",
+			"$this->GD",
+			"cart-summ",
+			"mm-history",
+			"jdi",
+			"$this->GD->link",
+			"$this->GD->text",
+			"$this->GD->random_text",
+			"$this->GD->count_results",
+			"$this->CHR->LANG",
+			"$this->GD",
+			"$this->GD->oddo",
+			"$this->GD->link",
+			"$this->GD->text",
+			"discount",
+			"$this->GD->adddate",
+			"adddate",
+			"font: 400",
+			"\"OS\"",
+			"600;",
+			"fa-chevron-right",
+			"fa-angle-double-right",
+			"fa-arrow-circle-o-right",
+			"arrow-circle-o-right",
+			"$this->GD->USERDATA",
+			"$this->GD->shopdata",
+			"$this->GD->price",
+			"$this->CHR->LANG",
+			"$this->GD->category_data",
+			"$this->GD->url",
+			"$this->GD->USERDATA_info",
+			"$this->GD->generate_pictureUrl",
+			"$this->GD->picture_dimension",
+			"$this->GD->LANG",
+			"$this->GD->mesiac",
+			"$this->GD->link",
+			"$this->GD->random_color",
+			"$this->GD->text",
+			"$this->GD->oddo",
+			"$this->GD->count_results",
+			"$this->CHR->LANG",
+			"$CHR->PD->page",
+			"$this->GD->text",
+			"$this->GD->link",
+			"$link->GD->link",
+			"$this->GD->is_logged",
+			"",
+			"podlahyts",
+			"=",
+			"$this->mysql->result2()",
+			"$mysql->result",
+			"$stmt->result2",
+			"",
+			"$stmt->fetch_assoc()",
+			"$stmt = $this->mysql->query",
+			"<?= ",
+			"<?=",
+			"",
+			"require_once",
+			"$stmt->fetch_assoc()",
+			"$stmt = $this->mysql->query",
+			"mdiy-header-topmenu ",
+			"makediy-header-topmenu ",
+			"$this",
+			"=",
+			"$stmt = $this->mysql->query(",
+			"public function",
+			"$stmt = $this->mysql->query(",
+			"$FUNC->",
+			"isset($menuA4",
+			"xampp\\htdocs\\",
+			"$FUNC->nav(",
+			"$FUNC->opening_hours(",
+			"$FUNC->nav_hash(",
+			"$this->nav(",
+			"$FUNC->breadcrumb(",
+			"$FUNC->breadcrumb",
+			"$this->slider_to_img",
+			"$FUNC->slider_to_array",
+			"$FUNC->slider",
+			"$FUNC->slider(",
+			"$FUNC->nav(",
+			"$FUNC->nav_lang",
+			"public function ",
+			"$stmt->fetch_assoc()",
+			"",
+			"$stmt = $this->mysql->query"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "functions/global.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85565,
+								85565
+							]
+						],
+						"settings":
+						{
+							"history_list_is_closing": true,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 43481.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions/basket.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13226,
+								13226
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "functions/basket.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57078,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8069,
+								8069
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3989.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "temp/switch.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1090,
+								1094
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 221.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 35,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "functions/email.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								967,
+								967
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 388.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "functions/items.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16518,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9072,
+								9100
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4249.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "functions/search.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19031,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2318,
+								2318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 34,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "functions/actions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8984,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1855,
+								1855
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 615.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 37,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "functions/account.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2910,
+								2910
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 427.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 38,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "functions/item-profil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15842,
+								15842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7330.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 9,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92209,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83581,
+								83581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 22280.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/media.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28462,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13438,
+								13438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 6069.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/D/xampp/htdocs/global/js/plugin_timestamp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3011,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								3011
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 32,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/D/xampp/htdocs/global/js/plugin_moment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								115414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 33,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/D/xampp/htdocs/global/css/icons.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1992,
+								1992
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 908.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 44076,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26637,
+								26637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 16586.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "js/basket.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4213,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1328,
+								1328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 837.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 24,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 16,
+					"file": "config/conf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10808,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1739,
+								1739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 476.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "content/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "config/defines.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2933,
+								2933
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1605.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "content/profil-item.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1685,
+								1685
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 560.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "functions/item-profil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3626,
+								3626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1574.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 25,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "structure/head.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1104,
+								1104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 169.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "structure/body.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2250,
+								2310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 835.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 30,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "content/category.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								347,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 29,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "content/about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 104.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 39,
+					"type": "text"
+				},
+				{
+					"buffer": 24,
+					"file": "content/order.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1988,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1536,
+								1536
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 323.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 36,
+					"type": "text"
+				},
+				{
+					"buffer": 25,
+					"file": "content/search.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1025,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								775,
+								775
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 26,
+					"file": "functions/verify.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 20805,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10119,
+								10121
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 28,
+					"type": "text"
+				},
+				{
+					"buffer": 27,
+					"file": "functions/inputs.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6627,
+								6627
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3069.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 27,
+					"type": "text"
+				},
+				{
+					"buffer": 28,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 29,
+					"file": "functions/user-profil.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13283,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4553,
+								4553
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 26,
+					"type": "text"
+				},
+				{
+					"buffer": 30,
+					"file": "functions/filters.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								814,
+								814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2208.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 31,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 31,
+					"file": "content/signin.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								381,
+								381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 32,
+					"file": "content/signup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 33,
+					"file": "content/404.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 153,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 34,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								436,
+								436
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Vážený zákazník,",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 35,
+					"file": ".htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								352,
+								450
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 36,
+					"file": "/D/xampp/htdocs/monamade-admin/functions/crons.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2157,
+								2157
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1211.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 37,
+					"file": "functions/tags.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2150,
+								2150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 557.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.504645639693,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

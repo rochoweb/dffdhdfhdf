@@ -1,0 +1,102 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteCond %{SCRIPT_FILENAME} !(.*/pics/.*)
+RewriteCond %{SCRIPT_FILENAME} !(.*/css/.*)
+RewriteCond %{SCRIPT_FILENAME} !(.*/functions/.*)
+
+
+#RewriteBase /
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteCond %{REQUEST_FILENAME}.php -f
+#RewriteRule ^(.+)$ /$1.php [L,QSA]
+
+
+RewriteCond %{HTTP_HOST} ^www.monamade.sk$ [NC]
+RewriteRule ^(.*)$ http://monamade.sk/$1 [R=301,L]
+
+
+RewriteRule 	^([a-z0-9-]+)/?$ 								index.php?p=$1&%{QUERY_STRING}
+
+RewriteRule 	^uvod/?$ 										index.php?p=uvod&%{QUERY_STRING}
+RewriteRule 	^home/?$ 										index.php?p=home&%{QUERY_STRING}
+
+RewriteRule 	^tag/([a-z0-9-]+)/?$ 							tag.php?p=tag&t=$1&%{QUERY_STRING}
+RewriteRule 	^hashtag/([a-z0-9-]+)/?$ 						tag.php?p=hashtag&t=$1&%{QUERY_STRING}
+
+RewriteRule 	^klient/([a-zA-Z0-9-]+)/?$ 						client.php?p=klient&sp=$1
+RewriteRule 	^client/([a-zA-Z0-9-]+)/?$ 						client.php?p=client&sp=$1
+
+RewriteRule 	^hladat/(.+)/([a-z0-9-_]+)?$ 					hladat.php?p=hladat&q=$1&filter=$2&%{QUERY_STRING}
+RewriteRule 	^find/(.+)/([a-z0-9-_]+)?$ 						hladat.php?p=find&q=$1&filter=$2&%{QUERY_STRING}
+
+
+RewriteCond %{SCRIPT_FILENAME} !-f
+RewriteRule 	^([a-zA-Z0-9_-]*[\.]*[a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]*[\.]*[a-zA-Z0-9_-]+)?$ 					kategorie.php?p=kategoria&p=$1&filter=$2&%{QUERY_STRING}
+RewriteRule 	^([a-z0-9-_]+)/([a-z0-9-_]+)?$ 					kategorie.php?p=category&p=$1&filter=$2&%{QUERY_STRING}
+
+#RewriteRule 	^([a-z0-9-]+)/([a-z0-9-]+)/?$ 					kategorie.php?p=kategoria&c=$1
+#RewriteRule 	^([a-z0-9-]+)/([a-z0-9-]+)/?$ 					kategorie.php?p=category&c=$1&q=$2
+
+
+
+
+
+ErrorDocument 404 /404
+
+
+
+<ifModule mod_gzip.c>
+mod_gzip_on Yes
+mod_gzip_dechunk Yes
+mod_gzip_item_include file .(html?|txt|css|js|php|pl)$
+mod_gzip_item_include handler ^cgi-script$
+mod_gzip_item_include mime ^text/.*
+mod_gzip_item_include mime ^application/x-javascript.*
+mod_gzip_item_exclude mime ^image/.*
+mod_gzip_item_exclude rspheader ^Content-Encoding:.*gzip.*
+</ifModule>
+
+# One week for image files
+<filesMatch ".(jpg|jpeg|png|gif|ico)$">
+Header set Cache-Control "max-age=604800, public"
+</filesMatch>
+
+# One hour for css and js
+<filesMatch ".(css|js)$">
+Header set Cache-Control "max-age=3600, public"
+</filesMatch>
+
+## EXPIRES CACHING ##
+<IfModule mod_expires.c>
+ExpiresActive On
+ExpiresByType image/jpg "access 1 week"
+ExpiresByType image/jpeg "access 1 week"
+ExpiresByType image/gif "access 1 week"
+ExpiresByType image/png "access 1 week"
+ExpiresByType text/css "access 1 day"
+ExpiresByType text/html "access 1 day"
+ExpiresByType application/pdf "access 1 week"
+ExpiresByType text/x-javascript "access 1 day"
+ExpiresByType application/x-shockwave-flash "access 1 week"
+ExpiresByType image/x-icon "access 1 day"
+ExpiresDefault "access 1 week"
+</IfModule>
+## EXPIRES CACHING ##
+
+
+
+<filesMatch ".(htaccess|htpasswd|ini|phps|fla|psd|log|sh)$">
+  Order Allow,Deny
+  Deny from all
+</filesMatch>
+
+
+# LIMIT UPLOAD FILE SIZE TO PROTECT AGAINST DOS ATTACK ###
+LimitRequestBody 10240000
+#bytes 0-2147483647(2GB)
+
+
+Options -Indexes
+DirectoryIndex index.php index.html /index.php

@@ -1,0 +1,185 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain) */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video
+  margin: 0
+  padding: 0
+  border: 0
+  font-size: 100%
+  font: inherit
+  vertical-align: baseline
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section
+  display: block
+
+body
+  line-height: 1
+
+ol, ul
+  list-style: none
+
+blockquote, q
+  quotes: none
+
+blockquote:before, blockquote:after,
+q:before, q:after
+  content: ''
+  content: none
+
+table
+  border-collapse: collapse
+  border-spacing: 0
+
+
+
+
+-webkit-scrollbar
+  width: 6px
+  height: 6px 
+
+-webkit-scrollbar-thumb:vertical,
+-webkit-scrollbar-thumb:horizontal
+  background: #d2c3aa 
+
+-webkit-scrollbar-thumb:vertical:hover, 
+-webkit-scrollbar-thumb:horizontal:hover
+  background: #757575
+
+-webkit-scrollbar-thumb:vertical:active,
+-webkit-scrollbar-thumb:horizontal:active
+  background: #544a3a 
+
+-webkit-scrollbar-button
+  background: #C5C5C5
+  display: none 
+
+-webkit-scrollbar-track-piece
+  background: #FAFAFA 
+-webkit-scrollbar-track-piece:vertical
+  background: #fff
+  border-left: solid 1px #e0e0e0 
+
+-webkit-scrollbar-corner
+  background: #B0B0B0 
+
+
+$font-family:        "OS"
+
+button::-moz-focus-inner
+  border: 0
+  padding: 0
+
+body 
+  font: 300 14px/20px $font-family
+  background-color: #fff
+  -webkit-text-size-adjust: 100%
+
+
+body, a
+  text-decoration: none
+  color: #444
+
+input, button
+  font-family: $font-family
+
+input:focus,
+button:focus
+  outline: none
+
+button
+  padding: 0
+  margin: 0
+  border: none
+  background: none
+  cursor: pointer
+
+
+textarea,
+input.text,
+input[type="text"],
+input[type="button"],
+input[type="submit"],
+.input-checkbox
+  -webkit-appearance: none
+  border-radius: 0
+
+
+strong
+  font-weight: 600
+
+textarea
+  outline: none
+
+
+  .dn 
+    display: none
+
+  .ls05
+    letter-spacing: -0.5px
+
+
+#MonaMade
+  position: relative
+  margin: auto
+  
+  .mm-content
+    width: 100%
+
+  #fixedHeader-line
+    position: fixed
+    top: 0
+    left: 0
+    width: 100%
+    z-index: 90
+  
+    .head-content
+      border-bottom: solid 2px #fff
+      background: url("/pics/bgs/mmm2.png")
+      
+      .logo-content position: absolute  float: left  text-align: center  
+        .mm-logo height: 80px  padding: 0 40px  display: block  overflow: hidden  
+        .mm-logo:hover, .mm-logo:focus opacity: .9  
+        .mm-logo img height: 95%  
+        .logo-content .om position: absolute  top: 0  left: 100%  width: 150px  text-align: center  background: none  margin: 20px 0  
+        .logo-content .om:hover, .logo-content .om:focus background: none  color: #fdfccb  
+
+      .right-content position: relative  margin: 10px  float: right  
+        
+        .right-menu float: right  
+          .rm- position: relative  float: left  height: 60px  
+          .rm- a color: #fff  
+          .rm- a:hover, .rm- a:focus color: #fdfccb  
+          .rm- strong font-weight: 400  
+            .br border-right: solid 1px #fff  
+
+            .top-search width: 20px  height: 20px  display: block  background-color: transparent  margin: 10px 20px 10px 0  color: #fff  padding: 10px  font-size: 25px  
+
+            .user-default margin: 10px 20px  
+            .user-default a display: inline-block  font-weight: 400  padding: 10px 15px  
+
+            .user-online  
+            .user-online .rm-icon display: block  font-size: 24px  line-height: 20px  text-align: center  
+            .user-online p padding-top: 10px  
+            .user-online a display: block  padding: 5px 30px 0 30px  
+
+            .user-cart width: 100px  
+            .user-cart a display: block  
+            .user-cart .rm-icon position: relative  /*top: -35px */ font-size: 36px  
+            .user-cart .ii width: 40px  height: 40px  
+              .rm-cart position: relative  
+                .cart-counter position: absolute  width: 15px  padding: 1px 3px  font: 400 12px/18px "OS"  background: #56a502  color: #fff  left: 55px  top: 0  border-radius: 100%  text-align: center  border: solid 2px #fff  text-shadow: 0 1px #666  
